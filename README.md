@@ -1,54 +1,97 @@
 # Lesson 52 - C# Version 1.0 AI-Powered Learning Prompts
 
 The Foundations of a Modern Language
-How to Use This Lesson
+
+## How to Use This Lesson
+
 In this lesson, your AI assistant will take on different expert roles:
+
 Language Historian, Language Designer, and Software Archaeologist.
+
 Your job is not to memorize syntax, but to reason about why the language looks the way it does.
 ________________________________________
-Practice Set 1 - The Historical Lens
+
+## Practice Set 1 - The Historical Lens
 (Your AI acts as a Language Historian)
-Prompt 1: Understanding the World of 2002
+
+### Prompt 1: Understanding the World of 2002
+
 Ask your AI assistant:
+
 “Describe the programming landscape in the early 2000s and explain why Microsoft needed a new language like C#.”
+
 What to focus on:
+
 •	Java’s dominance
+
 •	C++’s power vs. safety issues
+
 •	Visual Basic’s productivity vs. rigor trade-off
+
 •	Why .NET required a first-class language
 ________________________________________
-Prompt 2: Why C# Looked Like Java
+
+### Prompt 2: Why C# Looked Like Java
+
 Ask:
+
 “Explain why C# 1.0 intentionally resembled Java. Why was familiarity a strategic advantage rather than a weakness?”
+
 Think about:
+
 •	Developer adoption
+
 •	Corporate risk
+
 •	Professional credibility
+
 •	Avoiding experimental designs in enterprise software
+
 ________________________________________
-Practice Set 2 - Explicitness and Restraint
+## Practice Set 2 - Explicitness and Restraint
+
 (Your AI acts as a Language Designer)
-Prompt 3: What Was Intentionally Missing
+
+### Prompt 3: What Was Intentionally Missing
+
 Ask:
-“List major modern C# features that did NOT exist in C# 1.0, and explain why their absence was likely deliberate.”
+
+List major modern C# features that did NOT exist in C# 1.0, and explain why their absence was likely deliberate.”
+
 Look for reasoning around:
+
 •	Generics
+
 •	LINQ
+
 •	async/await
+
 •	Type inference
+
 •	Pattern matching
+
 Focus on restraint, not technological limitation.
 ________________________________________
-Prompt 4: Explicitness Over Cleverness
+
+### Prompt 4: Explicitness Over Cleverness
+
 Ask:
+
 “Explain the core design philosophy of C# 1.0 and why explicitness was prioritized over conciseness.”
+
 Reflect on:
+
 •	Readability
+
 •	Teachability
+
 •	Long-term maintainability
+
 •	Debugging clarity
+
 ________________________________________
-Practice Set 3 - Foundational Language Concepts
+
+## Practice Set 3 - Foundational Language Concepts
 (Your AI acts as a Software Archaeologist)
 Prompt 5: Classes as the Bedrock
 Ask:
